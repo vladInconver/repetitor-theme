@@ -1,0 +1,21 @@
+.parent_flex{
+	margin: 20px 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.child_flex{
+	text-align: left;
+	padding: 10px 10px 10px 20px;
+    position: relative;
+	width: 33%;
+}
+.child_flex:before {
+    content: "\2014";
+    color: #007bb9;
+    position: absolute;
+    font-weight: 300;
+    left: 0;
+}

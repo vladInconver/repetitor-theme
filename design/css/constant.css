@@ -1,0 +1,15 @@
+.wrapper_all {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1200px;
+	}
+	@media(max-width:1280px){
+	    .wrapper_all {
+	        width: calc(100% - 30px);
+	    }
+	}
+	@media(max-width:900px){
+	    .wrapper_all {
+	        width: calc(100% - 30px);
+	    }
+	}
