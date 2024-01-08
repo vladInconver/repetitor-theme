@@ -16,7 +16,7 @@
 				<p class="phone_foot">+7 (495) 970-99-66</p>
 				<address><a href="mailto:info@godege.ru">info@godege.ru</a></address>
 			</div>
-			<div class="foot_sec col-lg-4">
+			<div class="new-class foot_sec col-lg-4">
 				<div>
 					<p><a href="//godege.ru?utm_source=blog">Курсы ЕГЭ и ОГЭ в Москве:</a></p>
 					<ul>
